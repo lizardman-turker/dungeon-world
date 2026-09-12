@@ -1,0 +1,57 @@
+title:
+  - text: Dungeon World
+items:
+  - name: Вступление
+    href: chapter-1/intro.md
+  - name: Как в это играть
+    items:
+      - name: Как в это играть
+        href: chapter-2/how-to-play.md
+      - name: Значения характеристик и модификаторы
+        href: chapter-2/attributes-and-modifiers.md
+      - name: Ходы
+        href: chapter-2/moves.md
+      - name: Урон и лечение
+        items:
+          - name: Очки здоровья
+            href: chapter-2/damage-and-healing/hit-points.md
+          - name: Урон
+            href: chapter-2/damage-and-healing/damage.md
+          - name: Лечение
+            href: chapter-2/damage-and-healing/healing.md
+          - name: Травмы
+            href: chapter-2/damage-and-healing/traumas.md
+          - name: Смерть
+            href: chapter-2/damage-and-healing/death.md
+      - name: Магия
+        href: chapter-2/magic.md
+      - name: Изменение персонажа
+        href: chapter-2/character-modification.md
+      - name: Узы
+        href: chapter-2/bonds.md
+      - name: Мировоззрение
+        href: chapter-2/ideology.md
+      - name: Наемники
+        items:
+          - name: Наемники
+            href: chapter-2/mercenaries/index.md
+          - name: Создание наемника
+            href: chapter-2/mercenaries/create.md
+          - name: Умения
+            href: chapter-2/mercenaries/skills.md
+      - name: Жизнь героев
+        items:
+          - name: Жизнь героев
+            href: chapter-2/heroes-life/index.md)
+          - name: Мир подземелий
+            href: chapter-2/heroes-life/world-of-dungeons.md)
+          - name: Монстры
+            href: chapter-2/heroes-life/monsters.md)
+          - name: Дикие земли
+            href: chapter-2/heroes-life/wild-lands.md)
+          - name: Друзья и враги
+            href: chapter-2/heroes-life/friends-and-enemies.md)
+          - name: Мир
+            href: chapter-2/heroes-life/world.md)
+      - name: Пример игры
+        href: chapter-2/game-example.md
