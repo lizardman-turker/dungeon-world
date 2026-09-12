@@ -1,0 +1,12 @@
+title:
+  - text: Dungeon World
+meta:
+  title:
+    - text: Dungeon World
+  noIndex: false
+description:
+  - text: Dungeon World
+links:
+  - title: Вступление
+    description: Вступление
+    href: chapter-1/intro.md
